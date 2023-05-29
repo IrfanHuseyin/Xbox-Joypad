@@ -4,7 +4,8 @@
 
 Requires Python 311.
 
-[xbJoypad]!(https://github.com/IF-RACING/Xbox-Joypad/assets/99550596/e9a651d3-54da-400a-a416-b749053d221e)
+![xbJoypad](https://github.com/IF-RACING/Xbox-Joypad/assets/99550596/222b4bd3-7b9a-4a54-82f1-95f9981ff363)
+
 
 
 
